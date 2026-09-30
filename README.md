@@ -16,7 +16,7 @@
 
 **Research question:** One sentence stating what you're investigating.
 
-**Level:** Analytics / Inference / Prediction (pick one)
+**Level:** Analytics / Inference / Prediction 
 
 ## About this project
 
